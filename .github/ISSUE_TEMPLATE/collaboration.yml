@@ -1,0 +1,43 @@
+name: Collaboration or contributor interest
+description: Tell MorphoNerva about a pilot, research collaboration, or interest in contributing.
+title: "[Interest] "
+labels: ["collaboration"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in MorphoNerva. **This form is public.** Please don't include confidential, proprietary, export-controlled or personal information here. We will follow up privately if there is a fit.
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of interest?
+      options:
+        - Pilot partner (I have a sensing or edge-compute problem)
+        - Research collaboration
+        - Contributor / joining the team
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Name and organization (optional)
+  - type: textarea
+    id: what
+    attributes:
+      label: What would you like to work on together?
+      description: A few sentences is plenty. Public, non-confidential details only.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: How should we reach you? (optional)
+      description: For example, a LinkedIn profile or a professional website. Avoid posting a personal phone number.
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: Confirmation
+      options:
+        - label: I understand this form is public and I have not included confidential information.
+          required: true

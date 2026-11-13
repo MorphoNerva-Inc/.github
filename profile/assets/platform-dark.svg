@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-13T14:24:15.824075</dc:date>
+    <dc:date>2026-11-13T14:48:36.491943</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -41,7 +41,7 @@ Q 6.914286 30.16 6.914286 40.72
 L 6.914286 139.28 
 Q 6.914286 149.84 14.285714 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 137.142857 149.84 
@@ -54,7 +54,7 @@ Q 129.771429 30.16 129.771429 40.72
 L 129.771429 139.28 
 Q 129.771429 149.84 137.142857 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
     <path d="M 260 149.84 
@@ -67,7 +67,7 @@ Q 252.628571 30.16 252.628571 40.72
 L 252.628571 139.28 
 Q 252.628571 149.84 260 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
     <path d="M 382.857143 149.84 
@@ -80,7 +80,7 @@ Q 375.485714 30.16 375.485714 40.72
 L 375.485714 139.28 
 Q 375.485714 149.84 382.857143 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #4493f8; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #4493f8; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
     <path d="M 505.714286 149.84 
@@ -93,7 +93,7 @@ Q 498.342857 30.16 498.342857 40.72
 L 498.342857 139.28 
 Q 498.342857 149.84 505.714286 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #4493f8; stroke-width: 1.8; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #4493f8; stroke-width: 1.8; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
     <path d="M 628.571429 149.84 
@@ -106,7 +106,7 @@ Q 621.2 30.16 621.2 40.72
 L 621.2 139.28 
 Q 621.2 149.84 628.571429 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_8">
     <path d="M 751.428571 149.84 
@@ -119,7 +119,7 @@ Q 744.057143 30.16 744.057143 40.72
 L 744.057143 139.28 
 Q 744.057143 149.84 751.428571 149.84 
 z
-" clip-path="url(#p3317380a9d)" style="fill: #161b22; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
+" clip-path="url(#p450e73db9b)" style="fill: #161b22; stroke-dasharray: 4.44,1.92; stroke-dashoffset: 0; stroke: #30363d; stroke-width: 1.2; stroke-linejoin: miter"/>
    </g>
    <g id="text_1">
     <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="62.2" y="71.737852" transform="rotate(-0 62.2 71.737852)">Sensor data</text>
@@ -174,8 +174,8 @@ z
     <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #4493f8" x="430.771429" y="71.737852" transform="rotate(-0 430.771429 71.737852)">OmniSim</text>
    </g>
    <g id="text_8">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(390.016147 108.329277)">bit-exact simulation</text>
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(391.768257 118.17152)">and cost estimates</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(404.106054 108.329277)">simulate and</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(414.907632 118.17152)">analyze</text>
    </g>
    <g id="patch_12">
     <path d="M 486.831599 90 
@@ -191,8 +191,8 @@ z
     <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #4493f8" x="553.628571" y="71.737852" transform="rotate(-0 553.628571 71.737852)">OmniSDK</text>
    </g>
    <g id="text_10">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(518.03929 108.329277)">compile and map</text>
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(528.898525 118.17152)">to hardware</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(534.529618 108.329277)">build and</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(539.825665 118.17152)">deploy</text>
    </g>
    <g id="patch_13">
     <path d="M 609.688742 90 
@@ -229,7 +229,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="p3317380a9d">
+  <clipPath id="p450e73db9b">
    <rect x="2" y="2" width="860" height="176"/>
   </clipPath>
  </defs>
