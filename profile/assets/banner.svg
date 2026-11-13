@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="MorphoNerva: event-driven computing, engineered for efficiency">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#14213d"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#4493f8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4493f8" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#f778ba" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="14" fill="url(#bg)"/>
+  <!-- spike raster motif (decorative, random) -->
+  <g stroke="#4493f8" stroke-opacity="0.35" stroke-width="2" stroke-linecap="round">
+    <path d="M700 40v18M742 40v18M760 40v18M851 40v18M905 40v18M1010 40v18M1022 40v18M1150 40v18M1210 40v18"/>
+    <path d="M680 78v18M790 78v18M812 78v18M940 78v18M1066 78v18M1102 78v18M1188 78v18"/>
+    <path d="M722 116v18M735 116v18M876 116v18M890 116v18M996 116v18M1124 116v18M1240 116v18"/>
+    <path d="M760 154v18M830 154v18M955 154v18M968 154v18M981 154v18M1170 154v18"/>
+    <path d="M705 192v18M866 192v18M1040 192v18M1095 192v18M1222 192v18"/>
+    <path d="M748 230v18M798 230v18M920 230v18M1060 230v18M1132 230v18M1200 230v18"/>
+  </g>
+  <g stroke="#f778ba" stroke-opacity="0.55" stroke-width="2" stroke-linecap="round">
+    <path d="M955 40v18M955 78v18M968 116v18M981 154v18M981 192v18M994 230v18"/>
+  </g>
+  <rect x="64" y="196" width="520" height="2" fill="url(#glow)"/>
+  <text x="64" y="132" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#e6edf3">MorphoNerva</text>
+  <text x="64" y="176" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#9fb3c8">Event-driven computing, engineered for efficiency.</text>
+  <text x="64" y="236" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#6e7d91">Spiking neural networks · hardware/software co-design · FPGA → silicon</text>
+</svg>
