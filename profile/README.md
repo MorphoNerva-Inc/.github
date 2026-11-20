@@ -73,14 +73,14 @@ We co-design models and circuits with one goal: **the model we train is the mode
 
 ## Evidence, not adjectives
 
-Neuromorphic computing has a reputation for big claims. We would rather show our work. Every number we publish carries a label that says how strong the evidence behind it is:
+Neuromorphic computing has a reputation for big claims. We would rather show our work. We publish only **Measured** or **Sourced** numbers, and each one says how strong the evidence behind it is:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/evidence-ladder-dark.svg">
-  <img alt="Evidence ladder: Target, Estimated, Measured, Externally verified, in order of strength, with Sourced for cited results from others. Performance results are published from Measured upward." src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/evidence-ladder-light.svg" width="100%">
+  <img alt="Evidence ladder: Target, Estimated, Measured, Externally verified, in order of strength, with Sourced for cited results from others. Target and Estimated work is never published as a number; performance results are published from Measured upward." src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/evidence-ladder-light.svg" width="100%">
 </picture>
 
-**No performance results are published yet.** The first ones will appear here once they are measured on our own hardware, with the workload, precision and power boundary stated.
+**No performance results are published yet.** The first ones will appear here once they are measured on our own hardware, with the hardware, workload and power boundary stated.
 
 Before anything counts, it is checked against a reference model at every step, from the first model to the board:
 
@@ -140,14 +140,14 @@ Before anything counts, it is checked against a reference model at every step, f
 
 <br>
 
-Every number we publish carries one of these labels:
+We publish only **Measured** or **Sourced** numbers. The other two labels describe work in progress and never come with a number:
 
 | Label | Meaning |
 |---|---|
-| **Measured** | Run by us on stated hardware, with workload, precision and power boundary given |
+| **Measured** | Run by us on stated hardware, with workload and power boundary given |
 | **Sourced** | Someone else's published result, cited |
-| **Estimated** | From a model or simulation, with assumptions stated |
-| **Target** | A goal, not a result |
+| **Estimated** | From a model or simulation; used internally, not published as a number |
+| **Target** | A goal, not a result; stated without numbers |
 
 We publish performance results once they are measured on our own hardware, not before.
 

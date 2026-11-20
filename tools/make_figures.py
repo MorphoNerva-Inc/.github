@@ -63,9 +63,9 @@ def evidence_ladder(theme):
     c = THEMES[theme]
     fig, ax = canvas(3.3)
     steps = [
-        ("Target", "a goal, not a result", 52),
-        ("Estimated", "from a model or simulation,", 86, "assumptions stated"),
-        ("Measured", "on our hardware: workload,", 120, "precision, power boundary"),
+        ("Target", "a goal, stated", 52, "without numbers"),
+        ("Estimated", "model or simulation;", 86, "not published as a number"),
+        ("Measured", "on our hardware: workload,", 120, "power boundary, date"),
         ("Externally", "reproduced by", 154, "someone else"),
     ]
     x, w, gap, base = 24, 150, 14, 30

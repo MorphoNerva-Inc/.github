@@ -105,48 +105,51 @@ L 666 37.6
     <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="99" y="174.31251" transform="rotate(-0 99 174.31251)">Target</text>
    </g>
    <g id="text_2">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="99" y="190.6705" transform="rotate(-0 99 190.6705)">a goal, not a result</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="99" y="190.6705" transform="rotate(-0 99 190.6705)">a goal, stated</text>
    </g>
    <g id="text_3">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="263" y="140.514248" transform="rotate(-0 263 140.514248)">Estimated</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="99" y="202.772439" transform="rotate(-0 99 202.772439)">without numbers</text>
    </g>
    <g id="text_4">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="263" y="156.816002" transform="rotate(-0 263 156.816002)">from a model or simulation,</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="263" y="140.514248" transform="rotate(-0 263 140.514248)">Estimated</text>
    </g>
    <g id="text_5">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="263" y="168.692281" transform="rotate(-0 263 168.692281)">assumptions stated</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="263" y="156.772439" transform="rotate(-0 263 156.772439)">model or simulation;</text>
    </g>
    <g id="text_6">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #4493f8" x="427" y="106.514248" transform="rotate(-0 427 106.514248)">Measured</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="263" y="168.692281" transform="rotate(-0 263 168.692281)">not published as a number</text>
    </g>
    <g id="text_7">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="427" y="122.772439" transform="rotate(-0 427 122.772439)">on our hardware: workload,</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #4493f8" x="427" y="106.514248" transform="rotate(-0 427 106.514248)">Measured</text>
    </g>
    <g id="text_8">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="427" y="134.6705" transform="rotate(-0 427 134.6705)">precision, power boundary</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="427" y="122.772439" transform="rotate(-0 427 122.772439)">on our hardware: workload,</text>
    </g>
    <g id="text_9">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #4493f8" x="591" y="72.444531" transform="rotate(-0 591 72.444531)">Externally verified</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="427" y="134.6705" transform="rotate(-0 427 134.6705)">power boundary, date</text>
    </g>
    <g id="text_10">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="591" y="88.6705" transform="rotate(-0 591 88.6705)">reproduced by</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #4493f8" x="591" y="72.444531" transform="rotate(-0 591 72.444531)">Externally verified</text>
    </g>
    <g id="text_11">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="591" y="100.772439" transform="rotate(-0 591 100.772439)">someone else</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="591" y="88.6705" transform="rotate(-0 591 88.6705)">reproduced by</text>
    </g>
    <g id="text_12">
-    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #f778ba" x="509" y="24.079648" transform="rotate(-0 509 24.079648)">performance results are published from here</text>
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="591" y="100.772439" transform="rotate(-0 591 100.772439)">someone else</text>
    </g>
    <g id="text_13">
-    <text style="font-size: 9.5px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: start; fill: #6e7681" x="24" y="23.99875" transform="rotate(-0 24 23.99875)">stronger evidence  →</text>
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #f778ba" x="509" y="24.079648" transform="rotate(-0 509 24.079648)">performance results are published from here</text>
    </g>
    <g id="text_14">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="766" y="154.514248" transform="rotate(-0 766 154.514248)">Sourced</text>
+    <text style="font-size: 9.5px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: start; fill: #6e7681" x="24" y="23.99875" transform="rotate(-0 24 23.99875)">stronger evidence  →</text>
    </g>
    <g id="text_15">
-    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="766" y="170.692281" transform="rotate(-0 766 170.692281)">someone else's published</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="766" y="154.514248" transform="rotate(-0 766 154.514248)">Sourced</text>
    </g>
    <g id="text_16">
+    <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="766" y="170.692281" transform="rotate(-0 766 170.692281)">someone else's published</text>
+   </g>
+   <g id="text_17">
     <text style="font-size: 8.2px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="766" y="182.6705" transform="rotate(-0 766 182.6705)">result, always cited</text>
    </g>
   </g>
