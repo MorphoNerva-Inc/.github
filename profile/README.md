@@ -14,6 +14,7 @@
   <a href="#why-event-driven">Why event-driven</a> ·
   <a href="#how-it-works">How it works</a> ·
   <a href="#the-platform">Platform</a> ·
+  <a href="#evidence-not-adjectives">Evidence</a> ·
   <a href="#roadmap">Roadmap</a> ·
   <a href="#for-researchers-and-engineers">For researchers</a> ·
   <a href="#work-with-us">Work with us</a>
@@ -55,7 +56,7 @@ Spiking neurons integrate their inputs over time and communicate with sparse, di
   <img alt="Synthetic spike raster of 48 neurons showing sparse activity with a burst, and the population activity curve below" src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/sparse-raster-light.svg" width="100%">
 </picture>
 
-We co-design models and circuits, so **the model we train is the model the hardware computes**. There is no hand-off step where accuracy silently changes.
+We co-design models and circuits with one goal: **the model we train is the model the hardware computes**, with no hand-off step where accuracy silently changes.
 
 ## The platform
 
@@ -68,13 +69,31 @@ We co-design models and circuits, so **the model we train is the model the hardw
 |---|---|---|
 | **OmniSim** | Simulation and analysis environment for spiking models on MorphoNerva hardware | In development |
 | **OmniSDK** | Developer toolkit for building and deploying spiking models on MorphoNerva hardware | In development |
-| **MorphoNerva cores** | Digital event-driven neural processing cores, prototyped on FPGA | In development |
+| **MorphoNerva cores** | Digital event-driven neural processing cores, prototyped on FPGA first | In development |
+
+## Evidence, not adjectives
+
+Neuromorphic computing has a reputation for big claims. We would rather show our work. Every number we publish carries a label that says how strong the evidence behind it is:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/evidence-ladder-dark.svg">
+  <img alt="Evidence ladder: Target, Estimated, Measured, Externally verified, in order of strength, with Sourced for cited results from others. Performance results are published from Measured upward." src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/evidence-ladder-light.svg" width="100%">
+</picture>
+
+**No performance results are published yet.** The first ones will appear here once they are measured on our own hardware, with the workload, precision and power boundary stated.
+
+Before anything counts, it is checked against a reference model at every step, from the first model to the board:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/verification-flow-dark.svg">
+  <img alt="Verification flow: reference model, hardware design, simulation in two independent tools, gate-level check, formal proofs, FPGA build, board measurement. Every step is compared with the reference model, and a mismatch stops the line." src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/verification-flow-light.svg" width="100%">
+</picture>
 
 ## Roadmap
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/roadmap-dark.svg">
-  <img alt="Roadmap: research (done), Prototype 0 digital core (now), Prototype 1 measured on FPGA, pilots with design partners, custom silicon" src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/roadmap-light.svg" width="100%">
+  <img alt="Roadmap: research (done), Prototype 0 digital core in design and simulation (now), Prototype 1 measured on FPGA, pilots with design partners, custom silicon" src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/roadmap-light.svg" width="100%">
 </picture>
 
 ## Where it applies
@@ -160,4 +179,4 @@ Our engineering repositories are private while the technology is under developme
 
 ---
 
-<sub>© 2026 MorphoNerva, Inc. All rights reserved. Registered US small business (SAM.gov). Figures on this page are illustrations based on textbook models and synthetic data, not measured results. See <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/CONTRIBUTING.md">contributing</a>, <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> and <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/SECURITY.md">security</a>.</sub>
+<sub>© 2026 MorphoNerva, Inc. All rights reserved. Registered US small business (SAM.gov). Figures on this page are diagrams or illustrations based on textbook models and synthetic data, not measured results. See <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/CONTRIBUTING.md">contributing</a>, <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/CODE_OF_CONDUCT.md">code of conduct</a> and <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/SECURITY.md">security</a>.</sub>
