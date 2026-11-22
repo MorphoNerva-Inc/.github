@@ -6,7 +6,6 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-13T14:48:37.525218</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -31,122 +30,132 @@ z
   </g>
   <g id="axes_1">
    <g id="line2d_1">
-    <path d="M 58.047146 50.48 
-L 805.34242 50.48 
-" clip-path="url(#p5ccbc6752e)" style="fill: none; stroke: #30363d; stroke-width: 3; stroke-linecap: square"/>
+    <path d="M 58 53.6 
+L 805 53.6 
+" clip-path="url(#p7262ad878c)" style="fill: none; stroke: #30363d; stroke-width: 3"/>
    </g>
    <g id="line2d_2">
-    <path d="M 58.047146 50.48 
-L 244.870964 50.48 
-" clip-path="url(#p5ccbc6752e)" style="fill: none; stroke: #4493f8; stroke-width: 3; stroke-linecap: square"/>
+    <path d="M 58 53.6 
+L 244.75 53.6 
+" clip-path="url(#p7262ad878c)" style="fill: none; stroke: #4493f8; stroke-width: 3"/>
    </g>
-   <g id="PathCollection_1">
+   <g id="line2d_3">
     <defs>
-     <path id="m258fd7c5b7" d="M 0 6.123724 
-C 1.624031 6.123724 3.181764 5.47849 4.330127 4.330127 
-C 5.47849 3.181764 6.123724 1.624031 6.123724 0 
-C 6.123724 -1.624031 5.47849 -3.181764 4.330127 -4.330127 
-C 3.181764 -5.47849 1.624031 -6.123724 0 -6.123724 
-C -1.624031 -6.123724 -3.181764 -5.47849 -4.330127 -4.330127 
-C -5.47849 -3.181764 -6.123724 -1.624031 -6.123724 0 
-C -6.123724 1.624031 -5.47849 3.181764 -4.330127 4.330127 
-C -3.181764 5.47849 -1.624031 6.123724 0 6.123724 
+     <path id="m5c3c1ac9ec" d="M 0 6 
+C 1.591219 6 3.117479 5.367802 4.242641 4.242641 
+C 5.367802 3.117479 6 1.591219 6 0 
+C 6 -1.591219 5.367802 -3.117479 4.242641 -4.242641 
+C 3.117479 -5.367802 1.591219 -6 0 -6 
+C -1.591219 -6 -3.117479 -5.367802 -4.242641 -4.242641 
+C -5.367802 -3.117479 -6 -1.591219 -6 0 
+C -6 1.591219 -5.367802 3.117479 -4.242641 4.242641 
+C -3.117479 5.367802 -1.591219 6 0 6 
 z
 " style="stroke: #4493f8; stroke-width: 2"/>
     </defs>
-    <g clip-path="url(#p5ccbc6752e)">
-     <use xlink:href="#m258fd7c5b7" x="58.047146" y="50.48" style="fill: #4493f8; stroke: #4493f8; stroke-width: 2"/>
+    <g clip-path="url(#p7262ad878c)">
+     <use xlink:href="#m5c3c1ac9ec" x="58" y="53.6" style="fill: #4493f8; stroke: #4493f8; stroke-width: 2"/>
     </g>
    </g>
-   <g id="text_1">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="58.047146" y="95.728" transform="rotate(-0 58.047146 95.728)">Research</text>
-   </g>
-   <g id="text_2">
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(18.567771 133.885648)">models, encoders,</text>
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(39.201052 144.208)">methods</text>
-   </g>
-   <g id="PathCollection_2">
+   <g id="line2d_4">
     <defs>
-     <path id="m4ba896594c" d="M 0 8.062258 
-C 2.138136 8.062258 4.188987 7.212767 5.700877 5.700877 
-C 7.212767 4.188987 8.062258 2.138136 8.062258 0 
-C 8.062258 -2.138136 7.212767 -4.188987 5.700877 -5.700877 
-C 4.188987 -7.212767 2.138136 -8.062258 0 -8.062258 
-C -2.138136 -8.062258 -4.188987 -7.212767 -5.700877 -5.700877 
-C -7.212767 -4.188987 -8.062258 -2.138136 -8.062258 0 
-C -8.062258 2.138136 -7.212767 4.188987 -5.700877 5.700877 
-C -4.188987 7.212767 -2.138136 8.062258 0 8.062258 
+     <path id="m0bb3e49d4a" d="M 0 8 
+C 2.121625 8 4.156639 7.15707 5.656854 5.656854 
+C 7.15707 4.156639 8 2.121625 8 0 
+C 8 -2.121625 7.15707 -4.156639 5.656854 -5.656854 
+C 4.156639 -7.15707 2.121625 -8 0 -8 
+C -2.121625 -8 -4.156639 -7.15707 -5.656854 -5.656854 
+C -7.15707 -4.156639 -8 -2.121625 -8 0 
+C -8 2.121625 -7.15707 4.156639 -5.656854 5.656854 
+C -4.156639 7.15707 -2.121625 8 0 8 
 z
 " style="stroke: #4493f8; stroke-width: 2"/>
     </defs>
-    <g clip-path="url(#p5ccbc6752e)">
-     <use xlink:href="#m4ba896594c" x="244.870964" y="50.48" style="fill: #f778ba; stroke: #4493f8; stroke-width: 2"/>
+    <g clip-path="url(#p7262ad878c)">
+     <use xlink:href="#m0bb3e49d4a" x="244.75" y="53.6" style="fill: #f778ba; stroke: #4493f8; stroke-width: 2"/>
     </g>
    </g>
-   <g id="text_3">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="244.870964" y="95.728" transform="rotate(-0 244.870964 95.728)">Prototype 0</text>
-   </g>
-   <g id="text_4">
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(219.459308 133.885648)">digital core,</text>
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(196.571214 144.208)">simulated and verified</text>
-   </g>
-   <g id="text_5">
-    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #f778ba" x="244.870964" y="18.16" transform="rotate(-0 244.870964 18.16)">we are here</text>
-   </g>
-   <g id="PathCollection_3">
+   <g id="line2d_5">
     <defs>
-     <path id="m4b814f91e2" d="M 0 6.123724 
-C 1.624031 6.123724 3.181764 5.47849 4.330127 4.330127 
-C 5.47849 3.181764 6.123724 1.624031 6.123724 0 
-C 6.123724 -1.624031 5.47849 -3.181764 4.330127 -4.330127 
-C 3.181764 -5.47849 1.624031 -6.123724 0 -6.123724 
-C -1.624031 -6.123724 -3.181764 -5.47849 -4.330127 -4.330127 
-C -5.47849 -3.181764 -6.123724 -1.624031 -6.123724 0 
-C -6.123724 1.624031 -5.47849 3.181764 -4.330127 4.330127 
-C -3.181764 5.47849 -1.624031 6.123724 0 6.123724 
+     <path id="m02b09c4814" d="M 0 6 
+C 1.591219 6 3.117479 5.367802 4.242641 4.242641 
+C 5.367802 3.117479 6 1.591219 6 0 
+C 6 -1.591219 5.367802 -3.117479 4.242641 -4.242641 
+C 3.117479 -5.367802 1.591219 -6 0 -6 
+C -1.591219 -6 -3.117479 -5.367802 -4.242641 -4.242641 
+C -5.367802 -3.117479 -6 -1.591219 -6 0 
+C -6 1.591219 -5.367802 3.117479 -4.242641 4.242641 
+C -3.117479 5.367802 -1.591219 6 0 6 
 z
 " style="stroke: #6e7681; stroke-width: 2"/>
     </defs>
-    <g clip-path="url(#p5ccbc6752e)">
-     <use xlink:href="#m4b814f91e2" x="431.694783" y="50.48" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
+    <g clip-path="url(#p7262ad878c)">
+     <use xlink:href="#m02b09c4814" x="431.5" y="53.6" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
     </g>
+   </g>
+   <g id="line2d_6">
+    <g clip-path="url(#p7262ad878c)">
+     <use xlink:href="#m02b09c4814" x="618.25" y="53.6" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <g clip-path="url(#p7262ad878c)">
+     <use xlink:href="#m02b09c4814" x="805" y="53.6" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="58" y="88.514248" transform="rotate(-0 58 88.514248)">Research</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="58" y="111.878412" transform="rotate(-0 58 111.878412)">models, encoders,</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="58" y="122.878412" transform="rotate(-0 58 122.878412)">methods</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 9.5px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #f778ba" x="244.75" y="26.116851" transform="rotate(-0 244.75 26.116851)">we are here</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="244.75" y="88.31251" transform="rotate(-0 244.75 88.31251)">Prototype 0</text>
    </g>
    <g id="text_6">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="431.694783" y="95.728" transform="rotate(-0 431.694783 95.728)">Prototype 1</text>
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="244.75" y="111.7715" transform="rotate(-0 244.75 111.7715)">digital core, in design</text>
    </g>
    <g id="text_7">
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(403.488798 133.885648)">measured on</text>
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(398.735954 144.208)">FPGA hardware</text>
-   </g>
-   <g id="PathCollection_4">
-    <g clip-path="url(#p5ccbc6752e)">
-     <use xlink:href="#m4b814f91e2" x="618.518601" y="50.48" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
-    </g>
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="244.75" y="122.878412" transform="rotate(-0 244.75 122.878412)">and simulation</text>
    </g>
    <g id="text_8">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="618.518601" y="95.728" transform="rotate(-0 618.518601 95.728)">Pilots</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="431.5" y="88.31251" transform="rotate(-0 431.5 88.31251)">Prototype 1</text>
    </g>
    <g id="text_9">
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(593.764711 133.88632)">with design</text>
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(600.321539 144.208)">partners</text>
-   </g>
-   <g id="PathCollection_5">
-    <g clip-path="url(#p5ccbc6752e)">
-     <use xlink:href="#m4b814f91e2" x="805.34242" y="50.48" style="fill: #161b22; stroke: #6e7681; stroke-width: 2"/>
-    </g>
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="431.5" y="111.878412" transform="rotate(-0 431.5 111.878412)">measured on</text>
    </g>
    <g id="text_10">
-    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; text-anchor: middle; fill: #e6edf3" x="805.34242" y="95.728" transform="rotate(-0 805.34242 95.728)">Custom silicon</text>
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="431.5" y="122.878412" transform="rotate(-0 431.5 122.878412)">FPGA hardware</text>
    </g>
    <g id="text_11">
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(779.01231 133.885648)">efficiency at</text>
-    <text style="font-size: 8.6px; font-family: 'Segoe UI', Helvetica, Arial, sans-serif; fill: #6e7681" transform="translate(794.262529 144.208)">scale</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="618.25" y="88.514248" transform="rotate(-0 618.25 88.514248)">Pilots</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="618.25" y="111.7715" transform="rotate(-0 618.25 111.7715)">with design</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="618.25" y="122.741518" transform="rotate(-0 618.25 122.741518)">partners</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #e6edf3" x="805" y="88.514248" transform="rotate(-0 805 88.514248)">Custom silicon</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="805" y="111.817187" transform="rotate(-0 805 111.817187)">efficiency at</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 8.6px; font-family: 'Segoe UI', 'Helvetica', 'Arial', 'DejaVu Sans', 'Bitstream Vera Sans', 'Computer Modern Sans Serif', 'Lucida Grande', 'Verdana', 'Geneva', 'Lucid', 'Avant Garde', sans-serif; text-anchor: middle; fill: #6e7681" x="805" y="122.878412" transform="rotate(-0 805 122.878412)">scale</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p5ccbc6752e">
-   <rect x="2" y="2" width="859.389565" height="161.6"/>
+  <clipPath id="p7262ad878c">
+   <rect x="0" y="0" width="864" height="165.6"/>
   </clipPath>
  </defs>
 </svg>
