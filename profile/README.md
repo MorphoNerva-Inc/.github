@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/hero-banner.svg" alt="MorphoNerva: neuromorphic computing for the edge. Event-driven hardware and software that work only when something changes." width="100%">
+  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/hero.jpg" alt="MorphoNerva: neuromorphic computing for the edge. Banner photos: a brain-inspired research board, a drawing of neurons, a space-science instrument being built, and an ocean sensor buoy being serviced at sea." width="100%">
+  <br><sub>Banner: public-domain images from DARPA, Santiago Ramón y Cajal (1899), NASA and the U.S. Coast Guard. None show MorphoNerva hardware. <a href="https://github.com/MorphoNerva-Inc/.github/blob/main/profile/assets/SOURCES.md">Credits</a>.</sub>
 </p>
 
 <p align="center">
@@ -99,8 +100,10 @@ The first-order argument is simple. If a fraction *a* of inputs changes per step
 ### Where it applies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/photos/wind-farm-power-county.jpg" alt="Aerial view of wind turbines spread across open farmland with mountains behind" width="80%">
-  <br><sub>Remote, always-on assets are a natural fit for low-power monitoring at the sensor. Photo: U.S. Department of Energy, <a href="https://commons.wikimedia.org/wiki/File:Power_County_Wind_Farm_002.jpg">Wikimedia Commons</a>, public domain (resized).</sub>
+  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/photos/wind-farm-power-county.jpg" alt="Aerial view of wind turbines spread across open farmland" width="32%">
+  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/photos/noaa-buoy-service.jpg" alt="A ship's crew lowering an ocean sensor buoy into the Pacific" width="32%">
+  <img src="https://raw.githubusercontent.com/MorphoNerva-Inc/.github/main/profile/assets/photos/nasa-hubble-spectrograph.jpg" alt="Technicians in clean-room suits assembling a space telescope spectrograph" width="32%">
+  <br><sub>Sensors that must run unattended, on tight power budgets: remote energy assets, ocean monitoring buoys, and scientific instruments. None of these show MorphoNerva hardware. Photos: U.S. Department of Energy; U.S. Coast Guard servicing NOAA buoys; NASA, building the Hubble Space Telescope Imaging Spectrograph. All public domain, via Wikimedia Commons (<a href="https://commons.wikimedia.org/wiki/File:Power_County_Wind_Farm_002.jpg">1</a>, <a href="https://commons.wikimedia.org/wiki/File:USCGC_Maple_servicing_NOAA_buoy.jpg">2</a>, <a href="https://commons.wikimedia.org/wiki/File:Building_the_Space_Telescope_Imaging_Spectrograph_of_Hubble_Space_Telescope_1996_18_lg_web.jpg">3</a>), resized.</sub>
 </p>
 
 | Domain | Example problem |
