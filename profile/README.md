@@ -17,7 +17,7 @@
 
 Most sensors spend most of their time watching nothing happen. Conventional processors still run at full speed through all of it, and that wastes power exactly where power is scarcest: on batteries, solar panels and remote equipment.
 
-**MorphoNerva, Inc.** builds brain-inspired (neuromorphic) processors that do work only when their inputs change, together with the software to build and run models on them. Our first prototypes run on FPGAs. Custom silicon is the goal.
+**MorphoNerva, Inc.** builds brain-inspired (neuromorphic) processors that do work only when their inputs change, together with the software to build and run models on them. Our first prototypes will run on FPGAs. Custom silicon is the goal.
 
 | | |
 |---|---|
