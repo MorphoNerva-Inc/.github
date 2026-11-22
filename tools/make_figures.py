@@ -181,75 +181,9 @@ def roadmap(theme):
     save(fig, "roadmap", theme)
 
 
-def hero():
-    """Hero banner: wordmark, tagline and a decorative event-driven network motif.
-
-    Written as plain SVG (not matplotlib) for crisp text and a small file. The
-    network is decorative: node positions and activity come from a fixed seed.
-    """
-    import random
-
-    rng = random.Random(7)
-    W, H = 1280, 360
-    cols = [760, 850, 940, 1030, 1120, 1210]
-    nodes = [(x, 60 + 48 * j + (24 if i % 2 else 0)) for i, x in enumerate(cols)
-             for j in range(6) if 60 + 48 * j + (24 if i % 2 else 0) < 320]
-    active = {k for k in range(len(nodes)) if rng.random() < 0.18}
-    edges = []
-    for a, (xa, ya) in enumerate(nodes):
-        for b, (xb, yb) in enumerate(nodes):
-            if 0 < xb - xa <= 90 and abs(yb - ya) <= 72 and rng.random() < 0.55:
-                edges.append((a, b))
-    font = "Segoe UI, Helvetica, Arial, sans-serif"
-    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
-           f'viewBox="0 0 {W} {H}" role="img" aria-label="MorphoNerva: neuromorphic computing '
-           f'for the edge. Event-driven hardware and software that work only when something changes.">',
-           '<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
-           '<stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#16244a"/>'
-           '</linearGradient><linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">'
-           '<stop offset="0" stop-color="#4493f8"/><stop offset="1" stop-color="#f778ba" '
-           'stop-opacity="0"/></linearGradient>'
-           '<radialGradient id="halo"><stop offset="0" stop-color="#f778ba" stop-opacity="0.55"/>'
-           '<stop offset="1" stop-color="#f778ba" stop-opacity="0"/></radialGradient></defs>',
-           f'<rect width="{W}" height="{H}" rx="16" fill="url(#bg)"/>']
-    for a, b in edges:
-        (xa, ya), (xb, yb) = nodes[a], nodes[b]
-        hot = a in active and b in active
-        out.append(f'<line x1="{xa}" y1="{ya}" x2="{xb}" y2="{yb}" stroke="'
-                   f'{"#f778ba" if hot else "#4493f8"}" stroke-opacity="{0.8 if hot else 0.16}" '
-                   f'stroke-width="{2 if hot else 1.2}"/>')
-    for k, (x, y) in enumerate(nodes):
-        if k in active:
-            out.append(f'<circle cx="{x}" cy="{y}" r="22" fill="url(#halo)"/>'
-                       f'<circle cx="{x}" cy="{y}" r="7" fill="#f778ba"/>')
-        else:
-            out.append(f'<circle cx="{x}" cy="{y}" r="5.5" fill="#0b1020" stroke="#4493f8" '
-                       f'stroke-opacity="0.55" stroke-width="1.6"/>')
-    out += [
-        f'<text x="64" y="128" font-family="{font}" font-size="68" font-weight="700" '
-        f'fill="#e6edf3">MorphoNerva</text>',
-        f'<rect x="66" y="148" width="460" height="3" rx="1.5" fill="url(#rule)"/>',
-        f'<text x="64" y="194" font-family="{font}" font-size="28" fill="#c9d6e3">'
-        'Neuromorphic computing for the edge</text>',
-        f'<text x="64" y="230" font-family="{font}" font-size="18" fill="#8b9bb0">'
-        'Event-driven hardware and software that work only when something changes.</text>',
-    ]
-    x = 64
-    for label in ("Spiking neural networks", "OmniSim · OmniSDK", "FPGA first, then silicon"):
-        w = 13 + 8.6 * len(label)
-        out.append(f'<rect x="{x}" y="262" width="{w:.0f}" height="34" rx="17" fill="#4493f8" '
-                   f'fill-opacity="0.12" stroke="#4493f8" stroke-opacity="0.45"/>'
-                   f'<text x="{x + w / 2:.0f}" y="285" text-anchor="middle" font-family="{font}" '
-                   f'font-size="15" fill="#c9d6e3">{label}</text>')
-        x += w + 12
-    out.append("</svg>\n")
-    (OUT / "hero-banner.svg").write_text("\n".join(out), encoding="utf-8")
-
-
 if __name__ == "__main__":
     for t in THEMES:
         evidence_ladder(t)
         verification_flow(t)
         roadmap(t)
-    hero()
     print("wrote figures to", OUT)
